@@ -54,9 +54,6 @@ Built with Laravel (API backend) and Vue 3 + Pinia (frontend), ClientSync demons
     - Set your database credentials  
     - Add your HubSpot API key or token  
 
-    ```env
-    HUBSPOT_API_KEY=your_hubspot_api_key_here
-    ```
 
 5. Run database migrations:
 
